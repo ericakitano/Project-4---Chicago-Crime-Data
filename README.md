@@ -8,11 +8,14 @@
   - All Crimes that were reported in the city of Chicago and their details
   
 - ## Stakeholder:
-  - Reporter
+  - Reporter for the local newspaper
 
 - ## Business Problem: 
   - Answer a series of questions about trends in crimes in Chicago for a reporter for the local newspaper.
   
+- ## [Link to Tableau Dashboard](https://public.tableau.com/views/CoreChicagoCrimeDashboard/MainDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
+- Dashboard Preview: 
  
 <img src = "Main Dashboard.png">
+
